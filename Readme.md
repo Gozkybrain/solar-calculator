@@ -38,4 +38,4 @@ The Solar Calculator is a web-based tool designed to estimate solar energy poten
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/solar-calculator.git
+   git clone https://github.com/gozkybrain/solar-calculator.git
